@@ -12,7 +12,7 @@ public class VariablesDataTypes2 {
         short salaryPerMonth = 1000;
         System.out.println(salaryPerMonth);
 
-        char firstNameLetter = 80;
+        char firstNameLetter = 110;
         System.out.println(firstNameLetter);
 
         int dateOfBirth = 130686;
